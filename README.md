@@ -1,2 +1,2 @@
 # Network-Builder
-Java project to create a simple program for basic analysis of an undirected PPI network.
+Java project to create a simple program for basic analysis of an undirected protien-protein interaction network. It contains a simple GUI to allow the user to quickly find out the average degree, identify 'hubs' and access the degree distrution. The program prevents repeat interactions and allows the user to add new interactions after loading the network. Read networkBuilder_applicationNote.pdf for information on the motivations and utility of the project.
